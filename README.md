@@ -1,2 +1,5 @@
 # water-theft-detection-using-iot
 IoT-based smart water management system for detecting leakage, theft, and flow meter failures using ESP32 with real-time web monitoring and automated valve control.
+
+
+IoT-based Water Leakage, Theft, and Flow Meter Corruption Detection System developed for Kandavara Panchayat. This project uses an ESP32 microcontroller and multiple water flow sensors to monitor real-time water distribution across the main pipeline and household connections. The system detects leakage, unauthorized water usage, and damaged flow meters by comparing inlet and outlet flow values. When abnormalities are identified, instant alerts are sent to the municipality administrator, and a solenoid valve can automatically stop water supply to prevent wastage. A web-based dashboard provides live monitoring, billing transparency, sensor health status, and remote valve control. The solution aims to improve rural water management, reduce water loss, and ensure accountable and sustainable water distribution using IoT technology.
